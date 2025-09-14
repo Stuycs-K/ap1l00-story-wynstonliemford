@@ -15,3 +15,6 @@ This is my third commit. I'm a coding genius!
 This is my edit FROM HOME.
 
 This is step 10. FIRST COMMIT! Gee, Notepad++ is a cool text editor! I hope I do good on this quiz.
+
+This is step 10, once again! I actually like coding now, for some reason I was kind of reluctant to learn because
+it just feels like a lot. But really, I learned a lot about git bash and the whole workflow through repetition. SECOND COMMIT!
