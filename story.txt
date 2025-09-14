@@ -11,3 +11,5 @@ There is nothing surprising in this. If they but knew it, almost all PERSONS in 
 some time or other, cherish very nearly the same feelings towards the SHRINE with me.
 This is my second commit. I am getting the hang of it for sure!
 This is my third commit. I'm a coding genius!
+
+This is my edit FROM HOME.
