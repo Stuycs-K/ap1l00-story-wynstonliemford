@@ -13,3 +13,5 @@ This is my second commit. I am getting the hang of it for sure!
 This is my third commit. I'm a coding genius!
 
 This is my edit FROM HOME.
+
+This is step 10. FIRST COMMIT! Gee, Notepad++ is a cool text editor! I hope I do good on this quiz.
